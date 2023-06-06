@@ -1,15 +1,15 @@
 digraph G {
-    rankdir=LR;
+    rankdir=TB;
     node [shape = record]
-    edge [arrowhead=vee, arrowtail=dot, color=orange, dir=both, tailclip=false]
+    edge [arrowhead=vee, arrowtail=dot, color=red, dir=both, tailclip=false]
     
-    A [label="{ <first> left | <data>  data|  <second> right}"]
-    B [label="{ <first> left | <data> data|  <second> right}"]
-    C [label="{ <first> left | <data> data|  <second> right}"]
-    AL [label="{ <first> left | <data> data|  <second> right}"]
-    AR [label="{ <first> left | <data> data|  <second> right}"]
-    BL [label="{ <first> left | <data> data|  <second> right}"]
-    BR [label="{ <first> left | <data> data|  <second> right}"]
+    A [label=" <first> left | <data>  data|  <second> right"]
+    B [label=" <first> left | <data> data|  <second> right"]
+    C [label=" <first> left | <data> data|  <second> right"]
+    AL [label=" <first> left | <data> data|  <second> right"]
+    AR [label=" <first> left | <data> data|  <second> right"]
+    BL [label=" <first> left | <data> data|  <second> right"]
+    BR [label=" <first> left | <data> data|  <second> right"]
     
     A:first:c -> B:data;
     A:second:c -> AL:data;
