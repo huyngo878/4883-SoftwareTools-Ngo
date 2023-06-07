@@ -1,0 +1,20 @@
+digraph G {
+    rankdir=TB;
+    node [shape = record]
+    edge [arrowhead=vee, arrowtail=dot, color=red, dir=both, tailclip=false]
+    
+    A [label=" <left> left | <data>  data|  <right> right"]
+    B [label=" <left> left | <data> data|  <right> right"]
+    C [label=" <left> left | <data> data|  <right> right"]
+    AL [label=" <left> left | <data> data|  <right> right"]
+    AR [label=" <left> left | <data> data|  <right> right"]
+    BL [label=" <left> left | <data> data|  <right> right"]
+    BR [label=" <left> left | <data> data|  <right> right"]
+    
+    A:left:c -> B:data;
+    A:right:c -> AL:data;
+    B:left:c -> C:data;
+    B:right:c -> AR:data;
+    AL:left:c ->BL:data;
+    AL:right:c ->BR:data;
+}
