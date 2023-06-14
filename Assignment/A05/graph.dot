@@ -1,0 +1,209 @@
+digraph DwarfClans {
+node [shape=plaintext]
+subgraph cluster_Blacksteel {
+label = "Blacksteel"
+"0" [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" BGCOLOR="blue">
+                           <TR><TD>Name</TD><TD>Gustavus Banfill</TD></TR>
+                           <TR><TD>Born-Died</TD><TD>7/21/1701-2/9/1767</TD></TR>
+                           <TR><TD>Age</TD><TD>66</TD></TR>
+                           <TR><TD>Gender</TD><TD>M</TD></TR>
+                           </TABLE>>]
+}
+subgraph cluster_Akira {
+label = "Akira"
+"1" [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" BGCOLOR="blue">
+                           <TR><TD>Name</TD><TD>Lowe Dimond</TD></TR>
+                           <TR><TD>Born-Died</TD><TD>1/15/1703-9/27/1793</TD></TR>
+                           <TR><TD>Age</TD><TD>90</TD></TR>
+                           <TR><TD>Gender</TD><TD>M</TD></TR>
+                           </TABLE>>]
+"2" [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" BGCOLOR="pink">
+                           <TR><TD>Name</TD><TD>Adrienne Anmore</TD></TR>
+                           <TR><TD>Born-Died</TD><TD>1/14/1721-12/12/1819</TD></TR>
+                           <TR><TD>Age</TD><TD>98</TD></TR>
+                           <TR><TD>Gender</TD><TD>F</TD></TR>
+                           </TABLE>>]
+"3" [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" BGCOLOR="pink">
+                           <TR><TD>Name</TD><TD>Lurleen Quayle</TD></TR>
+                           <TR><TD>Born-Died</TD><TD>10/15/1722-2/11/1811</TD></TR>
+                           <TR><TD>Age</TD><TD>89</TD></TR>
+                           <TR><TD>Gender</TD><TD>F</TD></TR>
+                           </TABLE>>]
+"4" [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" BGCOLOR="pink">
+                           <TR><TD>Name</TD><TD>Jannel Heyns</TD></TR>
+                           <TR><TD>Born-Died</TD><TD>9/13/1752-8/22/1830</TD></TR>
+                           <TR><TD>Age</TD><TD>78</TD></TR>
+                           <TR><TD>Gender</TD><TD>F</TD></TR>
+                           </TABLE>>]
+"1" [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" BGCOLOR="blue">
+                           <TR><TD>Name</TD><TD>Lowe Dimond</TD></TR>
+                           <TR><TD>Born-Died</TD><TD>1/15/1703-9/27/1793</TD></TR>
+                           <TR><TD>Age</TD><TD>90</TD></TR>
+                           <TR><TD>Gender</TD><TD>M</TD></TR>
+                           </TABLE>>]
+"2" [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" BGCOLOR="pink">
+                           <TR><TD>Name</TD><TD>Adrienne Anmore</TD></TR>
+                           <TR><TD>Born-Died</TD><TD>1/14/1721-12/12/1819</TD></TR>
+                           <TR><TD>Age</TD><TD>98</TD></TR>
+                           <TR><TD>Gender</TD><TD>F</TD></TR>
+                           </TABLE>>]
+"3" [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" BGCOLOR="pink">
+                           <TR><TD>Name</TD><TD>Lurleen Quayle</TD></TR>
+                           <TR><TD>Born-Died</TD><TD>10/15/1722-2/11/1811</TD></TR>
+                           <TR><TD>Age</TD><TD>89</TD></TR>
+                           <TR><TD>Gender</TD><TD>F</TD></TR>
+                           </TABLE>>]
+"4" [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" BGCOLOR="pink">
+                           <TR><TD>Name</TD><TD>Jannel Heyns</TD></TR>
+                           <TR><TD>Born-Died</TD><TD>9/13/1752-8/22/1830</TD></TR>
+                           <TR><TD>Age</TD><TD>78</TD></TR>
+                           <TR><TD>Gender</TD><TD>F</TD></TR>
+                           </TABLE>>]
+"1" [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" BGCOLOR="blue">
+                           <TR><TD>Name</TD><TD>Lowe Dimond</TD></TR>
+                           <TR><TD>Born-Died</TD><TD>1/15/1703-9/27/1793</TD></TR>
+                           <TR><TD>Age</TD><TD>90</TD></TR>
+                           <TR><TD>Gender</TD><TD>M</TD></TR>
+                           </TABLE>>]
+"2" [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" BGCOLOR="pink">
+                           <TR><TD>Name</TD><TD>Adrienne Anmore</TD></TR>
+                           <TR><TD>Born-Died</TD><TD>1/14/1721-12/12/1819</TD></TR>
+                           <TR><TD>Age</TD><TD>98</TD></TR>
+                           <TR><TD>Gender</TD><TD>F</TD></TR>
+                           </TABLE>>]
+"3" [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" BGCOLOR="pink">
+                           <TR><TD>Name</TD><TD>Lurleen Quayle</TD></TR>
+                           <TR><TD>Born-Died</TD><TD>10/15/1722-2/11/1811</TD></TR>
+                           <TR><TD>Age</TD><TD>89</TD></TR>
+                           <TR><TD>Gender</TD><TD>F</TD></TR>
+                           </TABLE>>]
+"4" [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" BGCOLOR="pink">
+                           <TR><TD>Name</TD><TD>Jannel Heyns</TD></TR>
+                           <TR><TD>Born-Died</TD><TD>9/13/1752-8/22/1830</TD></TR>
+                           <TR><TD>Age</TD><TD>78</TD></TR>
+                           <TR><TD>Gender</TD><TD>F</TD></TR>
+                           </TABLE>>]
+"1" [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" BGCOLOR="blue">
+                           <TR><TD>Name</TD><TD>Lowe Dimond</TD></TR>
+                           <TR><TD>Born-Died</TD><TD>1/15/1703-9/27/1793</TD></TR>
+                           <TR><TD>Age</TD><TD>90</TD></TR>
+                           <TR><TD>Gender</TD><TD>M</TD></TR>
+                           </TABLE>>]
+"2" [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" BGCOLOR="pink">
+                           <TR><TD>Name</TD><TD>Adrienne Anmore</TD></TR>
+                           <TR><TD>Born-Died</TD><TD>1/14/1721-12/12/1819</TD></TR>
+                           <TR><TD>Age</TD><TD>98</TD></TR>
+                           <TR><TD>Gender</TD><TD>F</TD></TR>
+                           </TABLE>>]
+"3" [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" BGCOLOR="pink">
+                           <TR><TD>Name</TD><TD>Lurleen Quayle</TD></TR>
+                           <TR><TD>Born-Died</TD><TD>10/15/1722-2/11/1811</TD></TR>
+                           <TR><TD>Age</TD><TD>89</TD></TR>
+                           <TR><TD>Gender</TD><TD>F</TD></TR>
+                           </TABLE>>]
+"4" [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" BGCOLOR="pink">
+                           <TR><TD>Name</TD><TD>Jannel Heyns</TD></TR>
+                           <TR><TD>Born-Died</TD><TD>9/13/1752-8/22/1830</TD></TR>
+                           <TR><TD>Age</TD><TD>78</TD></TR>
+                           <TR><TD>Gender</TD><TD>F</TD></TR>
+                           </TABLE>>]
+}
+subgraph cluster_Ashenfire {
+label = "Ashenfire"
+"5" [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" BGCOLOR="pink">
+                           <TR><TD>Name</TD><TD>Nerte Witcomb</TD></TR>
+                           <TR><TD>Born-Died</TD><TD>5/11/1767-10/14/1842</TD></TR>
+                           <TR><TD>Age</TD><TD>75</TD></TR>
+                           <TR><TD>Gender</TD><TD>F</TD></TR>
+                           </TABLE>>]
+"6" [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" BGCOLOR="pink">
+                           <TR><TD>Name</TD><TD>Hedi Penbarthy</TD></TR>
+                           <TR><TD>Born-Died</TD><TD>9/22/1797-5/19/1864</TD></TR>
+                           <TR><TD>Age</TD><TD>67</TD></TR>
+                           <TR><TD>Gender</TD><TD>F</TD></TR>
+                           </TABLE>>]
+"5" [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" BGCOLOR="pink">
+                           <TR><TD>Name</TD><TD>Nerte Witcomb</TD></TR>
+                           <TR><TD>Born-Died</TD><TD>5/11/1767-10/14/1842</TD></TR>
+                           <TR><TD>Age</TD><TD>75</TD></TR>
+                           <TR><TD>Gender</TD><TD>F</TD></TR>
+                           </TABLE>>]
+"6" [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" BGCOLOR="pink">
+                           <TR><TD>Name</TD><TD>Hedi Penbarthy</TD></TR>
+                           <TR><TD>Born-Died</TD><TD>9/22/1797-5/19/1864</TD></TR>
+                           <TR><TD>Age</TD><TD>67</TD></TR>
+                           <TR><TD>Gender</TD><TD>F</TD></TR>
+                           </TABLE>>]
+}
+subgraph cluster_Aoki {
+label = "Aoki"
+"7" [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" BGCOLOR="pink">
+                           <TR><TD>Name</TD><TD>Diann Tomankiewicz</TD></TR>
+                           <TR><TD>Born-Died</TD><TD>2/21/1778-1/9/1855</TD></TR>
+                           <TR><TD>Age</TD><TD>77</TD></TR>
+                           <TR><TD>Gender</TD><TD>F</TD></TR>
+                           </TABLE>>]
+"8" [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" BGCOLOR="pink">
+                           <TR><TD>Name</TD><TD>Eyde Warters</TD></TR>
+                           <TR><TD>Born-Died</TD><TD>1/15/1820-1/14/1881</TD></TR>
+                           <TR><TD>Age</TD><TD>61</TD></TR>
+                           <TR><TD>Gender</TD><TD>F</TD></TR>
+                           </TABLE>>]
+"9" [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" BGCOLOR="blue">
+                           <TR><TD>Name</TD><TD>Hayden Pudding</TD></TR>
+                           <TR><TD>Born-Died</TD><TD>5/5/1831-9/16/1915</TD></TR>
+                           <TR><TD>Age</TD><TD>84</TD></TR>
+                           <TR><TD>Gender</TD><TD>M</TD></TR>
+                           </TABLE>>]
+"7" [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" BGCOLOR="pink">
+                           <TR><TD>Name</TD><TD>Diann Tomankiewicz</TD></TR>
+                           <TR><TD>Born-Died</TD><TD>2/21/1778-1/9/1855</TD></TR>
+                           <TR><TD>Age</TD><TD>77</TD></TR>
+                           <TR><TD>Gender</TD><TD>F</TD></TR>
+                           </TABLE>>]
+"8" [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" BGCOLOR="pink">
+                           <TR><TD>Name</TD><TD>Eyde Warters</TD></TR>
+                           <TR><TD>Born-Died</TD><TD>1/15/1820-1/14/1881</TD></TR>
+                           <TR><TD>Age</TD><TD>61</TD></TR>
+                           <TR><TD>Gender</TD><TD>F</TD></TR>
+                           </TABLE>>]
+"9" [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" BGCOLOR="blue">
+                           <TR><TD>Name</TD><TD>Hayden Pudding</TD></TR>
+                           <TR><TD>Born-Died</TD><TD>5/5/1831-9/16/1915</TD></TR>
+                           <TR><TD>Age</TD><TD>84</TD></TR>
+                           <TR><TD>Gender</TD><TD>M</TD></TR>
+                           </TABLE>>]
+"7" [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" BGCOLOR="pink">
+                           <TR><TD>Name</TD><TD>Diann Tomankiewicz</TD></TR>
+                           <TR><TD>Born-Died</TD><TD>2/21/1778-1/9/1855</TD></TR>
+                           <TR><TD>Age</TD><TD>77</TD></TR>
+                           <TR><TD>Gender</TD><TD>F</TD></TR>
+                           </TABLE>>]
+"8" [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" BGCOLOR="pink">
+                           <TR><TD>Name</TD><TD>Eyde Warters</TD></TR>
+                           <TR><TD>Born-Died</TD><TD>1/15/1820-1/14/1881</TD></TR>
+                           <TR><TD>Age</TD><TD>61</TD></TR>
+                           <TR><TD>Gender</TD><TD>F</TD></TR>
+                           </TABLE>>]
+"9" [label=<<TABLE BORDER="0" CELLBORDER="1" CELLSPACING="0" BGCOLOR="blue">
+                           <TR><TD>Name</TD><TD>Hayden Pudding</TD></TR>
+                           <TR><TD>Born-Died</TD><TD>5/5/1831-9/16/1915</TD></TR>
+                           <TR><TD>Age</TD><TD>84</TD></TR>
+                           <TR><TD>Gender</TD><TD>M</TD></TR>
+                           </TABLE>>]
+}
+"1" -- "0" [color=blue, dir=none]
+"3" -- "2" [color=blue, dir=none]
+"5" -- "4" [color=blue, dir=none]
+"7" -- "6" [color=blue, dir=none]
+"0" -- "2" [color=red, dir=back]
+"1" -- "2" [color=red, dir=back]
+"2" -- "4" [color=red, dir=back]
+"3" -- "4" [color=red, dir=back]
+"4" -- "6" [color=red, dir=back]
+"5" -- "6" [color=red, dir=back]
+"6" -- "8" [color=red, dir=back]
+"7" -- "8" [color=red, dir=back]
+"6" -- "9" [color=red, dir=back]
+"7" -- "9" [color=red, dir=back]
+}
