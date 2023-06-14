@@ -39,18 +39,18 @@ def createDotFile():
     for person in data:
       if person["spouseId"]:
         f.write(
-          f'"{person["id"]}" -- "{person["spouseId"]}" [color=blue, dir=none]\n'
+          f'"{person["id"]}" -> "{person["spouseId"]}" [color=blue, dir=none]\n'
         )
 
     # Create an edge between each person and their parents
     for person in data:
       if person["fatherId"]:
         f.write(
-          f'"{person["fatherId"]}" -- "{person["id"]}" [color=red, dir=back]\n'
+          f'"{person["fatherId"]}" -> "{person["id"]}" [color=red, dir=back]\n'
         )
       if person["motherId"]:
         f.write(
-          f'"{person["motherId"]}" -- "{person["id"]}" [color=red, dir=back]\n'
+          f'"{person["motherId"]}" -> "{person["id"]}" [color=red, dir=back]\n'
         )
 
     f.write("}\n")
