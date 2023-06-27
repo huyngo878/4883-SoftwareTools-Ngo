@@ -1,4 +1,5 @@
 # Assignment 7 - Web Scraping
+### Description - scrap up data from a website and put it into the py GUI
 
 |   #   |  File | Assignment Description |
 | :---: | ----------- | ---------------------- |
