@@ -13,17 +13,17 @@
 
 ## Some Features
 
-- Version control to track who did what and revert to earlier iterations【12†source】.
-- Setting of naming conventions using file and folder templates【13†source】.
-- Automation with templates to create folder structures and naming conventions【14†source】.
-- File and feedback organization in one place, with integration with chat apps for team sync【15†source】.
-- File organization by project data (date, status, artist) directly on project assets【16†source】.
-- Review and feedback tools that operate directly within Anchorpoint, without reliance on external tools【17†source】.
-- Customizable storage options, including local or cloud storage that can be shared with the team【18†source】.
-- Easy video file rating, sorting, and tagging with various viewing options【19†source】.
-- Cloud NAS for collaboration with remote teams and reduction of storage costs【21†source】.
-- Direct review and approval on the FBX or GLTF file, without third-party tools【22†source】.
-- Automation (API) for file conversion processes and batch renaming【23†source】.
-- Custom UI creation to suit the team and project【29†source】.
-- Tagging system for categorizing files, folders, and tasks【30†source】.
-- Video conversion capabilities for various file formats【31†source】.
+- Version control to track who did what and revert to earlier iterations.
+- Setting of naming conventions using file and folder templates.
+- Automation with templates to create folder structures and naming conventions.
+- File and feedback organization in one place, with integration with chat apps for team sync.
+- File organization by project data (date, status, artist) directly on project assets.
+- Review and feedback tools that operate directly within Anchorpoint, without reliance on external tools.
+- Customizable storage options, including local or cloud storage that can be shared with the team】.
+- Easy video file rating, sorting, and tagging with various viewing options.
+- Cloud NAS for collaboration with remote teams and reduction of storage costs.
+- Direct review and approval on the FBX or GLTF file, without third-party tools.
+- Automation (API) for file conversion processes and batch renaming.
+- Custom UI creation to suit the team and project.
+- Tagging system for categorizing files, folders, and tasks.
+- Video conversion capabilities for various file formats.
