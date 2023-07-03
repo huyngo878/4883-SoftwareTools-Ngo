@@ -19,7 +19,7 @@
 - File and feedback organization in one place, with integration with chat apps for team sync.
 - File organization by project data (date, status, artist) directly on project assets.
 - Review and feedback tools that operate directly within Anchorpoint, without reliance on external tools.
-- Customizable storage options, including local or cloud storage that can be shared with the team】.
+- Customizable storage options, including local or cloud storage that can be shared with the team.
 - Easy video file rating, sorting, and tagging with various viewing options.
 - Cloud NAS for collaboration with remote teams and reduction of storage costs.
 - Direct review and approval on the FBX or GLTF file, without third-party tools.
