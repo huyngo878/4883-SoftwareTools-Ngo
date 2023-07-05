@@ -5,5 +5,5 @@ Create a RESTful API using FastAPI that provides access to COVID-19 data. The AP
 
 |   #   | File Link | Assignment Description |
 | :---: | ----------- | ---------------------- |
-|   1    |           |         main driver               |
+|   1    |     [api.py](https://github.com/huyngo878/4883-SoftwareTools-Ngo/blob/main/Assignment/A08/api.py)      |         main driver               |
 
