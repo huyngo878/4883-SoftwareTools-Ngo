@@ -2,6 +2,9 @@
 ## Description
 Create a RESTful API using FastAPI that provides access to COVID-19 data. The API will fetch the data from a publicly available data source and expose endpoints to retrieve various statistics related to COVID-19 cases.
 
+To start: run "uvicorn api:app --reload" command inside the directory in terminal
+cd ./(Where api.py is at)
+
 
 |   #   | File Link | Assignment Description |
 | :---: | ----------- | ---------------------- |
