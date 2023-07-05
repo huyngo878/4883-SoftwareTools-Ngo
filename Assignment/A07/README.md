@@ -1,6 +1,6 @@
 # Assignment 7 - Web Scraping
 ### Description - scrap up data from a website and put it into the py GUI
-###to start: run webscrapping.py
+### to start: run webscrapping.py
 python3 webscrapping.py
 |   #   |  File | Assignment Description |
 | :---: | ----------- | ---------------------- |
