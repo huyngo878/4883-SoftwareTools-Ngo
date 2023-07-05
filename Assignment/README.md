@@ -6,3 +6,5 @@
 | A04| https://github.com/huyngo878/4883-SoftwareTools-Ngo/tree/main/Assignment/A01 | Graphviz |
 | A05 | https://github.com/huyngo878/4883-SoftwareTools-Ngo/tree/main/Assignment/A05 | Graphviz Family Tree | 
 | A07 | https://github.com/huyngo878/4883-SoftwareTools-Ngo/tree/main/Assignment/A07 | Web Scraping |
+| A08  https://github.com/huyngo878/4883-SoftwareTools-Ngo/tree/main/Assignment/A08| Fast API
+| 
