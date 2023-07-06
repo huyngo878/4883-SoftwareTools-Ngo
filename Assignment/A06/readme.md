@@ -19,7 +19,6 @@
 - Customizable storage options, including local or cloud storage that can be shared with the team.
 - Easy video file rating, sorting, and tagging with various viewing options.
 - Direct review and approval on the FBX or GLTF file, without third-party tools.
-- Custom UI creation to suit the team and project.
 - Tagging system for categorizing files, folders, and tasks.
 
 ## How to use anchorpoint
