@@ -12,8 +12,7 @@
 
 ## Some Features
 
-- Version control
--- hu
+- Version control for large projects
 - File and feedback organization in one place, with integration with chat apps for team sync.
 - File organization by project data (date, status, artist) directly on project assets.
 - Review and feedback tools that operate directly within Anchorpoint, without reliance on external tools.
@@ -22,7 +21,6 @@
 - Direct review and approval on the FBX or GLTF file, without third-party tools.
 - Custom UI creation to suit the team and project.
 - Tagging system for categorizing files, folders, and tasks.
-- Video conversion capabilities for various file formats.
 
 ## How to use anchorpoint
 - Create a project in a folder on your preferred storage media (NAS, Dropbox, Cloud Storage), which will be the collaboration space for your team.
